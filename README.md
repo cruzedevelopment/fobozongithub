@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Foboz</h1>
-<h3 align="center">Experienced FiveM Full Stack developer specializing in Lua scripting, JavaScript, and SQL. Passionate about crafting immersive gaming experiences through custom</h3>
+<h3 align="center">Experienced FiveM Full Stack developer specializing in Lua scripting, JavaScript, and SQL. Passionate about crafting immersive gaming experiences</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fobozongithub&label=Profile%20views&color=000000&style=flat" alt="fobozongithub" /> </p>
 
