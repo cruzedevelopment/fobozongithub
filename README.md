@@ -28,5 +28,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fobozongithub&show_icons=true&theme=dark&locale=en&layout=compact" alt="fobozongithub" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fobozongithub&show_icons=true&theme=dark&locale=en" alt="fobozongithub" /></p>
