@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fobozongithub&label=Profile%20views&color=000000&style=flat" alt="fobozongithub" /> </p>
 
-- 🔭 Currently, I'm engaged in developing [Westkust Roleplay.](https://discord.gg/wsk)
+- 🔭 Currently, I'm engaged in developing [Project Hydra](https://discord.gg/b5kjPY2FM8)
 
 - 🌱 I'm currently immersing myself in the worlds of **C++ and Laravel to deepen my understanding of programming languages and web development.**
 
